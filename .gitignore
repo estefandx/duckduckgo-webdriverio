@@ -1,0 +1,31 @@
+# Node modules
+node_modules/
+
+# WebdriverIO services logs
+wdio-logs/
+
+# WebdriverIO generated reports
+report/
+
+# WebdriverIO config files
+wdio.conf.js
+
+# Coverage folder (if using coverage tools like istanbul)
+coverage/
+
+# Logs
+*.log
+
+# NPM package lock file (if you don't want to commit it)
+package-lock.json
+
+# Environment files (e.g., API keys, environment variables)
+.env
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.swp
